@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="wrapper">
+        <div class="container">
+            <h2 style="text-align: center;">Bank Account</h2>
+            <div class="balance">
+                <p style="text-align: center;">Balance: </p>
+                <p>Rs.</p>
+                <p id="rupees">1000</p>
+            </div>
+
+            <div class="acount">
+                <div class="inp-balance"><input type="number" id="inp-rupees"></div>
+                <div class="btns">
+                    <button class="btn" id="deposit" onclick="getVal()">Deposit</button>
+                    <button class="btn" id="withdraw" onclick="getVal2()">Withdraw</button>
+                </div>
+            </div>
+
+            <div class="warn"><p id="pop" style="color: green"></p>
+            <p id="pop2" style="color: red"></p></div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
