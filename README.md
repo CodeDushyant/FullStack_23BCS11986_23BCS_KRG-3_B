@@ -20,3 +20,21 @@ Master essential full-stack development features
 Build mini full-stack apps quickly
 
 Learn complete flow: Database → Backend → Frontend → Deployment
+
+
+
+🧰 Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Authentication: JSON Web Tokens (JWT)
+
+Realtime: Socket.io
+
+File Upload: Local / Cloudinary
+
+Deployment: Vercel (frontend), Render / Railway / Heroku (backend)
