@@ -4,3 +4,10 @@ Full Stack – 10 Experiments
 
 Author: Dushyant Singh Chauhan
 Status: Completed
+
+
+🔥 Project Overview
+
+This repository contains 10 practical full-stack experiments designed to help you understand core web development concepts. Each experiment is focused, ready to run, and includes modern web features like authentication, APIs, database integration, file upload, real-time communication, and deployment basics.
+
+This is perfect for learning, practice, and interview preparation.
